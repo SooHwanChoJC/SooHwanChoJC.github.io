@@ -5,11 +5,7 @@
 
     {% include meta.html %}
 
-    {%
-      if site.ga
-        include ga
-      endif
-    %}
+    {% include ga.html %}
     <!--[if lt IE 9]>
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
