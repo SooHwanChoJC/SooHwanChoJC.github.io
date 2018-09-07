@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+현재 주로 iOS개발 공부 중인 컴퓨터과 학생입니다.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+iOS, C++, Haskell, 알고리즘, 리눅스 등
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[chh0107@gmail.com](mailto:chh0107@gmail.com)
